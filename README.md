@@ -17,7 +17,7 @@ to count class method calls.
 ### A starting point.
 
 The file `start_solution.rb` included here is a starting point. It will annotate all standard library instance methods. You can start from there, use it as
-inspiration for your own or just ignore it and start. This is based on a solution posted at: https://gist.github.com/ryanlecompte/3631742
+inspiration for your own or just ignore it and start. This is based on a solution posted at: https://gist.github.com/ryanlecompte
 
 ### Testing if your solution works
 
